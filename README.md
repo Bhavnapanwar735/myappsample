@@ -1,2 +1,3 @@
-# Lab 1 : Git, GitHub, GitLab
+# College Assignment
+git repository for the college and to learn more about git, github, gitlab.
 
